@@ -19,7 +19,7 @@ Before running the script, ensure you have the following installed on your Windo
 
 ## How to Use
 
-1. **Clone or Download the Repository**: Download the script file `f2s_state_windows.py` to your local machine.
+1. **Clone or Download the Repository**: Download the script file `f2s_state.py` to your local machine.
 
 2. **Open Command Prompt**: Navigate to the directory where you saved the script.
 
